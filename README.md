@@ -35,5 +35,10 @@ For every release, a SHA-256 checksum is published.
 
 To verify a downloaded file in Windows:
 
+## MetrixRTA is free software.
+
+If you find it useful, you can optionally support its continued development.
+Donations are completely voluntary and do not unlock any additional features.
+
 ```cmd
 certutil -hashfile MetrixRTA.exe SHA256
