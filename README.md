@@ -1,16 +1,39 @@
-## Hi there 👋
+# MetrixRTA
 
-<!--
-**MetrixRTA/MetrixRTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Real-time audio spectrum and distortion analyzer for Windows.
 
-Here are some ideas to get you started:
+MetrixRTA is a Windows application for real-time FFT spectrum analysis and audio measurement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features (so far)
+
+- Real-time FFT spectrum analysis
+- THD / THD+N measurement
+- CCIF IMD measurement
+- SMPTE IMD measurement
+- TD+N Multitone measurement
+- WASAPI and ASIO support
+- High sample rate support
+- Two-channel analysis
+- Spectrum averaging and overlays
+
+## Download
+
+Download the latest version from the **Releases** section of this repository.
+
+This repository contains documentation and binary releases only.  
+The application source code is not published.
+
+## System requirements
+
+- Windows 10 / Windows 11
+- x64 system
+- WASAPI or ASIO compatible audio device
+
+## File verification
+
+For every release, a SHA-256 checksum is published.
+
+To verify a downloaded file in Windows:
+
+```cmd
+certutil -hashfile MetrixRTA.exe SHA256
