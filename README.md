@@ -59,8 +59,11 @@ Donations are completely voluntary and do not unlock any additional features.
 ## Screenshots
 
 ![MetrixRTA screenshot](screenshots/Screenshot_1.png)
+
 ![MetrixRTA screenshot](screenshots/Screenshot_2.png)
+
 ![MetrixRTA screenshot](screenshots/Screenshot_3.png)
+
 ![MetrixRTA screenshot](screenshots/Screenshot_4.png)
 
 ## License
