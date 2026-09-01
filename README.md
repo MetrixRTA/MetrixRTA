@@ -56,7 +56,8 @@ If you find it useful, you can optionally support its continued development.
 
 Donations are completely voluntary and do not unlock any additional features.
 
-Support via ko-fi: https://ko-fi.com/metrixrta
+Support via ko-fi: https://ko-fi.com/metrixrta <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/70a61513-9592-4e1a-ab58-afb91808f5f2" />
+
 
 
 ## Screenshots
