@@ -6,12 +6,6 @@ MetrixRTA is a Windows application for real-time FFT spectrum analysis and audio
 
 > **Current pre-release:** 0.2.0
 
-## Metrix RTA Probe
-
-Need to check which sample rates, formats and buffer sizes an audio driver actually supports?
-
-[Open Metrix RTA Probe](https://github.com/MetrixRTA/Metrix-RTA-Probe) · [Download version 0.1.3 x64](https://github.com/MetrixRTA/Metrix-RTA-Probe/releases/download/0.1.3/MetrixRTAProbe_0.1.3_x64.exe)
-
 ## Features
 
 - Real-time FFT spectrum analysis
@@ -34,6 +28,12 @@ This version is published as a pre-release. The complete release page is availab
 This repository contains documentation and binary releases only.
 
 The application source code is not published.
+
+## Metrix RTA Probe
+
+Need to check which sample rates, formats and buffer sizes an audio driver actually supports?
+
+[Open Metrix RTA Probe](https://github.com/MetrixRTA/Metrix-RTA-Probe) · [Download version 0.1.3 x64](https://github.com/MetrixRTA/Metrix-RTA-Probe/releases/download/0.1.3/MetrixRTAProbe_0.1.3_x64.exe)
 
 ## System requirements
 
