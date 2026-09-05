@@ -8,6 +8,7 @@ MetrixRTA is a Windows application for real-time FFT spectrum analysis and audio
 
 - Real-time FFT spectrum analysis
 - THD / THD+N measurement
+- THD+N vs Time
 - CCIF IMD measurement
 - SMPTE IMD measurement
 - TD+N Multitone measurement
