@@ -4,22 +4,26 @@ Real-time audio spectrum and distortion analyzer for Windows.
 
 MetrixRTA is a Windows application for real-time FFT spectrum analysis and audio measurement.
 
+> **Current pre-release:** 0.2.0
+
 ## Features
 
 - Real-time FFT spectrum analysis
 - THD / THD+N measurement
-- THD+N vs Time
+- THD+N vs time
 - CCIF IMD measurement
 - SMPTE IMD measurement
 - TD+N Multitone measurement
 - WASAPI and ASIO support
-- High sample rate support
+- ASIO and WASAPI support up to 768 kHz with compatible hardware
 - Two-channel analysis
 - Spectrum averaging and overlays
 
 ## Download
 
-Download the latest version from the [Releases](https://github.com/MetrixRTA/MetrixRTA/releases) section of this repository.
+### [Download MetrixRTA 0.2.0 x64](https://github.com/MetrixRTA/MetrixRTA/releases/download/v0.2.0/MetrixRTA_0.2.0_x64.exe)
+
+This version is published as a pre-release. The complete release page is available in the [Releases](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.2.0) section of this repository.
 
 This repository contains documentation and binary releases only.
 
@@ -57,9 +61,9 @@ If you find it useful, you can optionally support its continued development.
 
 Donations are completely voluntary and do not unlock any additional features.
 
-Support via ko-fi: https://ko-fi.com/metrixrta 
+### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta)
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/70a61513-9592-4e1a-ab58-afb91808f5f2" />
+<a href="https://ko-fi.com/metrixrta"><img src="assets/kofi-qr.png" alt="Ko-fi QR code" width="110"></a>
 
 
 

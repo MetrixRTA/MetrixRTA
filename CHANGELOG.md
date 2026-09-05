@@ -2,7 +2,7 @@
 
 All notable changes to MetrixRTA are documented here.
 
-## [0.2.0] - 2026-08-30
+## [0.2.0] - 2026-08-30 (pre-release)
 
 First public preview release of MetrixRTA.
 
@@ -10,7 +10,7 @@ First public preview release of MetrixRTA.
 
 - Real-time FFT spectrum analysis
 - THD and THD+N measurement
-- THD vs Time measurement mode
+- THD+N vs time measurement mode
 - CCIF IMD measurement
 - SMPTE IMD measurement
 - TD+N Multitone measurement
