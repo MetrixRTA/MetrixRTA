@@ -1,0 +1,10 @@
+# Public repository allowlist: source code and build inputs must never be published.
+*
+!.gitignore
+!README.md
+!CHANGELOG.md
+!RELEASE_NOTES_*.md
+!assets/
+!assets/**
+!screenshots/
+!screenshots/**
