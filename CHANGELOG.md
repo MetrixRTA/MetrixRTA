@@ -2,6 +2,25 @@
 
 All notable changes to MetrixRTA are documented here.
 
+## [0.2.2] - 2026-09-07 (pre-release)
+
+### Added
+
+- Per-channel level calibration with manual Offset and one-click Norm controls
+- Relative dBr presentation for calibrated input measurements
+- Persistent text and arrow annotation objects on the spectrum
+- Native Windows font and arrow-color selection for spectrum annotations
+- Configurable screenshot filename prefixes with automatic numbering
+- Optional inclusion of the control panel in screenshots
+
+### Changed
+
+- The GUI is more responsive through consolidated frame updates and fewer redundant redraws
+- Mode and control changes are presented atomically instead of repainting interface sections sequentially
+- The spectrum viewport remains stable while controls and measurement modes change
+- Capture and generator controls operate independently and preserve their intended state while devices reconnect
+- Screenshot capture and spectrum annotation workflows are integrated into the STOP-mode interface
+
 ## [0.2.1] - 2026-09-06 (pre-release)
 
 ### Added
