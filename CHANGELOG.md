@@ -2,6 +2,26 @@
 
 All notable changes to MetrixRTA are documented here.
 
+## [0.2.3] - 2026-09-07 (pre-release)
+
+### Added
+
+- Compact per-channel result panels displayed directly over the spectrum
+- Draggable and collapsible result panels with positions saved in the configuration
+- Clickable result values that open detailed measurement information
+- Copy-to-clipboard support for screenshots
+- Day/night spectrum theme with an adaptive high-contrast palette
+- Compact contact and donation controls in the status area
+
+### Changed
+
+- The former lower results table was removed and the spectrum now uses the released space
+- Two-channel measurements show an independent result panel for each channel
+- Measurement headings, bandwidth labels, Phase and Time actions were consolidated in the new panels
+- Screenshot control-panel selection now includes or excludes both side panels
+- Input and output status presentation was made more compact and informative
+- Startup and redraw sequencing was consolidated to reduce redundant painting and panel flicker
+
 ## [0.2.2] - 2026-09-07 (pre-release)
 
 ### Added
