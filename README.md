@@ -22,9 +22,11 @@ MetrixRTA is a Windows application for real-time FFT spectrum analysis and audio
 
 ## Download
 
+The complete release page is available in the 
 
+### [Releases](https://github.com/MetrixRTA/MetrixRTA/releases) 
 
-This version is published as a pre-release. The complete release page is available in the ## [Releases](https://github.com/MetrixRTA/MetrixRTA/releases) section of this repository.
+section of this repository.
 
 This repository contains documentation and binary releases only.
 
