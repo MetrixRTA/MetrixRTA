@@ -11,7 +11,7 @@ All notable changes to MetrixRTA are documented here.
 - Clickable result values that open detailed measurement information
 - Copy-to-clipboard support for screenshots
 - Day/night spectrum theme with an adaptive high-contrast palette
-- Compact contact and donation controls in the status area
+- Compact contact and tip controls in the status area
 
 ### Changed
 
@@ -100,6 +100,6 @@ First public preview release of MetrixRTA.
 - MetrixRTA is under active development.
 - Features, measurement modes, and the user interface may change in future versions.
 - MetrixRTA is free to use.
-- Donations are completely voluntary and do not unlock any additional features.
+- Tips are completely voluntary and do not unlock any additional features.
 - The application is distributed as closed-source software.
 - The application source code is not published.
