@@ -4,21 +4,23 @@ Real-time audio spectrum and distortion analyzer for Windows.
 
 MetrixRTA is a FREE Windows application for real-time FFT spectrum analysis and audio measurement.
 
-> **Current pre-release:** [0.2.8](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.2.8)
+> **Current pre-release:** [0.3.8]https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0
 
 ## Features
 
-- Real-time FFT spectrum analysis
-- THD / THD+N measurement
-- THD / THD+N vs Frequency measurement
-- THD+N vs time
-- CCIF IMD measurement
-- SMPTE IMD measurement
-- TD+N Multitone measurement
-- WASAPI and ASIO support
-- ASIO and WASAPI support up to 768 kHz with compatible hardware
-- Two-channel analysis
-- Spectrum averaging and overlays
+Key features:
+• Real-time FFT analysis with FFT sizes up to 8M points, linear and logarithmic frequency scales, averaging, Peak Hold, and multiple FFT window functions.
+• Support for sample rates up to 768 kHz.
+• THD, THD+N, and THD/THD+N vs Frequency measurements.
+• IMD CCIF and SMPTE, DIM30 and DIM100.
+• Multitone TDN and AM Level measurements.
+• AM and PM noise analysis.
+• Waveform mode for time-domain signal analysis, including simultaneous display of the input signal and residual during distortion measurements.
+• Spectrum and Noise Density display modes.
+• Measurement Details with a detailed breakdown of measurement results, including the formulas used, intermediate values, and substitution of actual measured values directly into the formulas.
+• Built-in test signal generator and Digital Loopback mode.
+• Independent input and output audio interface selection, including native WASAPI Exclusive and ASIO.
+• Interactive plot scaling and configuration, with day and night display modes.
 
 ## Download
 
@@ -31,12 +33,6 @@ section of this repository.
 This repository contains documentation and binary releases only.
 
 The application source code is not published.
-
-## Metrix RTA Probe
-
-Need to check which sample rates, formats and buffer sizes an audio driver actually supports?
-
-[Open Metrix RTA Probe](https://github.com/MetrixRTA/Metrix-RTA-Probe) · [Download version 0.1.3 x64](https://github.com/MetrixRTA/Metrix-RTA-Probe/releases/download/0.1.3/MetrixRTAProbe_0.1.3_x64.exe)
 
 ## System requirements
 
@@ -73,6 +69,8 @@ Tips are completely voluntary and do not unlock any additional features.
 ### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta)
 
 <a href="https://ko-fi.com/metrixrta"><img src="assets/kofi-qr.png" alt="Ko-fi QR code" width="110"></a>
+
+### [Support MetrixRTA on Boosty](https://boosty.to/truerta/donate)
 
 ## Screenshots
 
