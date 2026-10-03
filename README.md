@@ -4,7 +4,7 @@ Real-time audio spectrum and distortion analyzer for Windows.
 
 MetrixRTA is a FREE Windows application for real-time FFT spectrum analysis and audio measurement.
 
-> **Current pre-release:** [0.3.8](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
+> **Current pre-release:** [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
 
 ## Features
 
