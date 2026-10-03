@@ -75,6 +75,8 @@ Tips are completely voluntary and do not unlock any additional features.
 ## Screenshots
 
 <img width="1920" height="1032" alt="Screenshot2" src="https://github.com/user-attachments/assets/295d31fc-e1ea-42f2-885e-27859a74b214" />
+<img width="1920" height="1032" alt="Screenshot3" src="https://github.com/user-attachments/assets/b1911b58-ce73-48c8-b7b9-4fd41caceee2" />
+
 
 
 ![MetrixRTA screenshot](screenshots/Screenshot_1.png)
