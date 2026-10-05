@@ -66,7 +66,7 @@ If you find it useful, you can optionally support its continued development.
 
 Tips are completely voluntary and do not unlock any additional features.
 
-### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta)
+### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta/tip)
 
 <a href="https://ko-fi.com/metrixrta"><img src="assets/kofi-qr.png" alt="Ko-fi QR code" width="110"></a>
 
