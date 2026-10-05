@@ -72,6 +72,9 @@ Tips are completely voluntary and do not unlock any additional features.
 
 ### [Support MetrixRTA on Boosty](https://boosty.to/truerta/donate)
 
+<img width="135" height="141" alt="image" src="https://github.com/user-attachments/assets/3fba85bf-b9f2-4603-b18c-68584749f79f" />
+
+
 ## Screenshots
 
 <img width="1920" height="1032" alt="Screenshot2" src="https://github.com/user-attachments/assets/295d31fc-e1ea-42f2-885e-27859a74b214" />
