@@ -20,18 +20,19 @@ Support on boosty: http://boosty.to/truerta/donate
 ## Features
 
 Key features:
-• Real-time FFT analysis with FFT sizes up to 8M points, linear and logarithmic frequency scales, averaging, Peak Hold, and multiple FFT window functions.
-• Support for sample rates up to 768 kHz.
-• THD, THD+N, and THD/THD+N vs Frequency measurements.
-• IMD CCIF and SMPTE, DIM30 and DIM100.
-• Multitone TDN and AM Level measurements.
-• AM and PM noise analysis.
-• Waveform mode for time-domain signal analysis, including simultaneous display of the input signal and residual during distortion measurements.
-• Spectrum and Noise Density display modes.
-• Measurement Details with a detailed breakdown of measurement results, including the formulas used, intermediate values, and substitution of actual measured values directly into the formulas.
-• Built-in test signal generator and Digital Loopback mode.
-• Independent input and output audio interface selection, including native WASAPI Exclusive and ASIO.
-• Interactive plot scaling and configuration, with day and night display modes.
+
+- Real-time FFT analysis with FFT sizes up to 8M points, linear and logarithmic frequency scales, averaging, Peak Hold, and multiple FFT window functions.
+- Support for sample rates up to 768 kHz.
+- THD, THD+N, and THD/THD+N vs Frequency measurements.
+- IMD CCIF and SMPTE, DIM30 and DIM100.
+- Multitone TDN and AM Level measurements.
+- AM and PM noise analysis.
+- Waveform mode for time-domain signal analysis, including simultaneous display of the input signal and residual during distortion measurements.
+- Spectrum and Noise Density display modes.
+- Measurement Details with a detailed breakdown of measurement results, including the formulas used, intermediate values, and substitution of actual measured values directly into the formulas.
+- Built-in test signal generator and Digital Loopback mode.
+- Independent input and output audio interface selection, including native WASAPI Exclusive and ASIO.
+- Interactive plot scaling and configuration, with day and night display modes.
 
 ## Download
 
