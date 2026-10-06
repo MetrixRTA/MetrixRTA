@@ -9,7 +9,10 @@ If you find it useful, you can optionally support its continued development.
 Tips are completely voluntary and do not unlock any additional features.
 
 Support on ko-fi: http://ko-fi.com/metrixrta/tip
+
 Support on boosty: http://boosty.to/truerta/donate
+
+
 
 
 > ***Current pre-release:*** [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
