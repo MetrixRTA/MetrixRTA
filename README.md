@@ -15,7 +15,7 @@ Support on boosty: http://boosty.to/truerta/donate
 
 
 
-> ***Current pre-release:*** [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
+ ### Current pre-release: [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
 
 ## Features
 
