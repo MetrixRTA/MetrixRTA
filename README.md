@@ -4,7 +4,15 @@ Real-time audio spectrum and distortion analyzer for Windows.
 
 MetrixRTA is a FREE Windows application for real-time FFT spectrum analysis and audio measurement.
 
-> **Current pre-release:** [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
+If you find it useful, you can optionally support its continued development.
+
+Tips are completely voluntary and do not unlock any additional features.
+
+Support on ko-fi: http://ko-fi.com/metrixrta/tip
+Support on boosty: http://boosty.to/truerta/donate
+
+
+> ***Current pre-release:*** [0.3.0](https://github.com/MetrixRTA/MetrixRTA/releases/tag/v0.3.0)
 
 ## Features
 
@@ -57,22 +65,6 @@ Compare the resulting SHA-256 hash with the checksum published on the correspond
 Official MetrixRTA releases are distributed through this GitHub repository.
 
 You can additionally scan the downloaded file with Microsoft Defender, VirusTotal, or another antivirus service before running it.
-
-## Support MetrixRTA
-
-MetrixRTA is free to use.
-
-If you find it useful, you can optionally support its continued development.
-
-Tips are completely voluntary and do not unlock any additional features.
-
-### [Support MetrixRTA on Ko-fi](https://ko-fi.com/metrixrta/tip)
-
-<a href="https://ko-fi.com/metrixrta"><img src="assets/kofi-qr.png" alt="Ko-fi QR code" width="110"></a>
-
-### [Support MetrixRTA on Boosty](https://boosty.to/truerta/donate)
-
-<img width="135" height="141" alt="image" src="https://github.com/user-attachments/assets/3fba85bf-b9f2-4603-b18c-68584749f79f" />
 
 
 ## Screenshots
