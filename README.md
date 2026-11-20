@@ -73,6 +73,9 @@ You can additionally scan the downloaded file with Microsoft Defender, VirusTota
 
 ## Screenshots
 
+<img width="1918" height="1001" alt="image" src="https://github.com/user-attachments/assets/1a7faef6-525a-4cf8-84f1-317f5d81704a" />
+
+
 <img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/c034668e-57ef-4122-8516-e55c550eaedf" />
 
 
