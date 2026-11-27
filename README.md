@@ -129,6 +129,12 @@ certutil -hashfile "MetrixRTA_0.4.0_031677_x64.exe" SHA256
 
 Compare the resulting hash with the matching `.sha256` asset and the checksum on the release page. For another build, substitute its exact filename. Official binaries are distributed through [this repository's releases](https://github.com/MetrixRTA/MetrixRTA/releases).
 
+## Antivirus notice
+
+MetrixRTA is packaged with **PyInstaller**. Some antivirus products may flag PyInstaller-built executables because of their bootloader or packaging behavior; these detections can be false positives. This is a [known issue documented by the PyInstaller project](https://github.com/pyinstaller/pyinstaller/blob/develop/doc/bootloader-building.rst).
+
+Download only from the official releases and verify the SHA-256 checksum. A matching checksum confirms that the file matches the published build; it does not by itself prove that an antivirus warning is false. If a detection occurs, report the antivirus product, detection name, and MetrixRTA version through GitHub Issues, and submit the file to the antivirus vendor for review.
+
 ## Documentation and feedback
 
 - [Documentation](docs/).
