@@ -131,7 +131,7 @@ Compare the resulting hash with the matching `.sha256` asset and the checksum on
 
 ## Documentation and feedback
 
-- [Documentation](docs/), including the [Russian controls guide for version 0.3.3](docs/MetrixRTA_0.3.3_controls_RU.pdf). Older guides may differ from the current interface.
+- [Documentation](docs/).
 - [Release notes](https://github.com/MetrixRTA/MetrixRTA/releases) describe changes for each published version.
 - [GitHub Issues](https://github.com/MetrixRTA/MetrixRTA/issues) is the place for bug reports and feature requests.
 
