@@ -132,7 +132,8 @@ Compare the resulting hash with the matching `.sha256` asset and the checksum on
 ## Documentation and feedback
 
 - [Documentation](docs/).
-- [Release notes](https://github.com/MetrixRTA/MetrixRTA/releases) describe changes for each published version.
+- [Changelog](CHANGELOG.md) provides the complete published version history.
+- [Releases](https://github.com/MetrixRTA/MetrixRTA/releases) provide downloads, checksums, and version-specific notes.
 - [GitHub Issues](https://github.com/MetrixRTA/MetrixRTA/issues) is the place for bug reports and feature requests.
 
 For a bug report, include the version and executable filename, Windows version, audio device and driver, relevant measurement settings, and steps to reproduce. Screenshots and audio-I/O diagnostics can help explain the issue.
